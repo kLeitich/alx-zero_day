@@ -1,9 +1,0 @@
-# alx-zero_day
-# alx-low_level_programming
-# alx-low_level_programming
-# alx-low_level_programming
-# alx-low_level_programming
-# alx-low_level_programming
-# printf
-# simple_shell
-# simple_shell
